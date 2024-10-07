@@ -1,0 +1,41 @@
+*{
+    background-color: lightgrey;
+}
+
+.image-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+}
+
+.sun{
+    font-size: 100px;
+    margin-right: 50px;
+
+}
+
+.function-text{
+    text-align: center;
+}
+
+.function-text button{
+    padding: 10px;
+    background-color: green;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.answer-box{
+    border: none;
+    background-color: grey;
+    min-height: 2em;
+    width: 20em;
+    padding: 5px;
+    overflow: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 18px;
+}
