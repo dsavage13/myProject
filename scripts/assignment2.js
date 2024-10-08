@@ -1,4 +1,4 @@
-console.log("Assignment 2");
+console.log("Welcome To My Assignment 2");
 const Answer = document.getElementById("answer-box")
 
 function convertTemp(){

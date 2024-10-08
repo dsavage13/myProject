@@ -39,6 +39,4 @@ function convertTemp(){
         Answer.innerHTML = ("You have entered an invalid Selection"); 
     }
     }
-
-
-
+    

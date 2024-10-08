@@ -6,16 +6,22 @@
     display: flex;
     justify-content: center;
     margin-top: 200px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
 }
 
 .sun{
     font-size: 100px;
-    margin-right: 50px;
-
+    margin-right: 30px;
+    text-align: center;
 }
 
 .function-text{
     text-align: center;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .function-text button{
@@ -24,6 +30,8 @@
     border: none;
     border-radius: 5px;
     font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .answer-box{
